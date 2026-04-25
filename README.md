@@ -22,3 +22,11 @@ This project is a simple AI-powered system that matches candidates with job desc
 
 2. Run the app:
    streamlit run app.py
+
+
+Sample Input:
+Looking for python developer with sql and machine learning skills
+
+Sample Output:
+Ravi – Match Score: 2, Interest Score: 80 (Matched: python, sql)
+Rahul – Match Score: 2, Interest Score: 75 (Matched: python, machine learning)
